@@ -6,7 +6,6 @@
     - Committed to git → shared with team
     - Use for: build commands, architecture, team standards
 
-
 2. `CLAUDE.local.md` (Project root)
     - Auto git-ignored → personal only
     - Use for: your preferences in THIS project
